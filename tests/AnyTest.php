@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Sprokets\Predicate\Tests;
+namespace Sprockets\Predicate\Tests;
 
 use PHPUnit\Framework\TestCase;
 
-use function Sprokets\Predicate\any;
+use function Sprockets\Predicate\any;
 
 final class AnyTest extends TestCase
 {
